@@ -26,7 +26,7 @@ JavaScript
 OpenWeather API
 
 ## Project URL
-
+https://xotaina.github.io/weather-dashboard/
 
 ## Credits
 This project was developed as part of a server-side APIs challenge for a coding bootcamp. The design and functionality were implemented by Jackilyn T, Walsh V, Theresa J, Taina B.
